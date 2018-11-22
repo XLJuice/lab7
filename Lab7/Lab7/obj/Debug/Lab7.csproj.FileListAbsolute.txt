@@ -1,0 +1,10 @@
+E:\Programming\visual\Lab7\Lab7\bin\Debug\Lab7.exe.config
+E:\Programming\visual\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\Programming\visual\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.fMain.resources
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.exe
+E:\Programming\visual\Lab7\Lab7\obj\Debug\Lab7.pdb
